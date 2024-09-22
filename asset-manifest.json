@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/newblindapp/static/css/main.5748f0da.css",
-    "main.js": "/newblindapp/static/js/main.60613b24.js",
+    "main.js": "/newblindapp/static/js/main.25e1c117.js",
     "static/js/453.c4d2327e.chunk.js": "/newblindapp/static/js/453.c4d2327e.chunk.js",
     "index.html": "/newblindapp/index.html",
     "main.5748f0da.css.map": "/newblindapp/static/css/main.5748f0da.css.map",
-    "main.60613b24.js.map": "/newblindapp/static/js/main.60613b24.js.map",
+    "main.25e1c117.js.map": "/newblindapp/static/js/main.25e1c117.js.map",
     "453.c4d2327e.chunk.js.map": "/newblindapp/static/js/453.c4d2327e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5748f0da.css",
-    "static/js/main.60613b24.js"
+    "static/js/main.25e1c117.js"
   ]
 }
